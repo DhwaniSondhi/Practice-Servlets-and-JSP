@@ -1,0 +1,14 @@
+CREATE DATABASE basedatabase;
+
+CREATE TABLE student (
+  rollno integer,
+  marks integer,
+  sname character varying(255)
+);
+
+INSERT INTO student
+VALUES ("101", "80", "Dhwani"),
+ ("102", "70", "Tej"),
+ ("103", "90", "Sahaj");
+ 
+Select * from student;

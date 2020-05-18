@@ -1,4 +1,4 @@
-# Practice-Servlets
+# Practice-Servlets-and-JSP
 This repository consists of lectures learned from [Telusko](https://www.youtube.com/watch?v=OuBUUkQfBYM). 
 
 ### Prerequites
